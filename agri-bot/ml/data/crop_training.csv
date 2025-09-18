@@ -1,0 +1,5 @@
+soil_ph,moisture,rainfall,price,crop_label
+6.5,30,100,1500,rice
+7.0,20,50,1800,wheat
+6.0,40,200,2000,maize
+7.5,15,30,2200,chickpea
